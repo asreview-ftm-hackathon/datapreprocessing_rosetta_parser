@@ -1,0 +1,10 @@
+name: ftm_hackathon
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - spacy
+  - cupy
+  - bs4

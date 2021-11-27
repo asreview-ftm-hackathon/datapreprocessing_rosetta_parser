@@ -1,3 +1,9 @@
+# Ignore input data files
+input_data/*
+
+# IDEA stuff
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
